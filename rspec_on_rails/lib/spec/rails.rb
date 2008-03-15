@@ -12,6 +12,7 @@ require 'spec/rails/extensions'
 require 'spec/rails/example'
 require 'spec/rails/version'
 require 'spec/rails/matchers'
+require 'spec/rails/interop/testcase'
 
 module Spec
   # = Spec::Rails
